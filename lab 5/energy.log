@@ -1,0 +1,6 @@
+2025-12-03 14:55:36,829 - INFO - Reading file: buildingA_jan.csv
+2025-12-03 14:55:36,839 - INFO - Reading file: buildingB_jan.csv
+2025-12-03 14:55:36,843 - INFO - Reading file: buildingC_jan.csv
+2025-12-03 14:55:36,848 - INFO - Combined DataFrame shape: (15, 4)
+2025-12-03 14:55:38,300 - INFO - Dashboard saved to output\dashboard.png
+2025-12-03 14:55:38,308 - INFO - Outputs (CSV + summary.txt) saved.
